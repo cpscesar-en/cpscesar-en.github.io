@@ -1,22 +1,22 @@
 ---
 layout: page
 title: "César Pedrosa Soares"
-subtitle: Saúde / Educação / Meio Ambiente & IA
+subtitle: Health / Education / Environment & AI
 css: "/css/index.css"
 meta-title: "Dean César Pedrosa Soares"
-meta-description: "Psicólogo. Mestre em Políticas Públicas. Doutorando em Saúde Global e Sustentabilidade."
+meta-description: "Psychologist. Master in Public Policy. PhD student in Global Health and Sustainability."
 
 ---
 
 ## Quem sou eu ##
 
-Doutorando em Saúde Global e Sustentabilidade pela Universidade de São Paulo (USP). Mestre em Políticas Públicas pela Universidade Federal do Rio Grande do Sul (UFRGS). Bacharel em Psicologia. 
-Áreas de interesse em pesquisa: desigualdade socioeconômica e ambiental, políticas públicas de compensação, desenvolvimento sustentável, mudança climática, padrões sociais de uso dos recursos naturais, políticas públicas e sustentabilidade socioambiental, avaliação e monitoramento de políticas públicas, inteligência artificial aplicada à saúde, educação e meio ambiente.
+PhD student in Global Health and Sustainability at the University of São Paulo (USP). Master in Public Policy from the Federal University of Rio Grande do Sul (UFRGS). Bachelor in Psychology.
+Areas of interest in research: socioeconomic and environmental inequality, compensation/offset policies, sustainable development, climate change, social patterns of use of natural resources, public policies and socio-environmental sustainability, evaluation and monitoring of public policies, artificial intelligence applied to health, education, and the environment, and psychometrics methods.
 
 ### Contatos ###
 
-- Email Institucional: <cpscesar@usp.br>
-- Email Pessoal: <cpscesar@gmail.com>
+- Institutional Email: <cpscesar@usp.br>
+- Personal email: <cpscesar@gmail.com>
 
 - [Lattes](http://lattes.cnpq.br/7049986165777293)
 
@@ -27,27 +27,27 @@ Doutorando em Saúde Global e Sustentabilidade pela Universidade de São Paulo (
 [//]: <> (- [ReserachID](https://publons.com/researcher/3069730/lucas-soares/))
 
 
-### Curriculum Vitae (Últimos 5 anos) ###
+### Curriculum Vitae (Last 5 years) ###
 
 
-- **2018 - Atual** - Doutorando em Saúde Global e Sustentabilidade pela Universidade de São Paulo (USP) (Bolsista Capes - Nº do Processo: 1808789).
+- **2018 - Atual** - PhD student in Global Health and Sustainability at the University of São Paulo (USP) (Scholarship Capes - Process No. 1808789).
 
-- **2019 - 2020** - Estágio de pesquisa no "Research Group of Applied Landscape Ecology and Ecological Planning" do Institute of Landscape Ecology (ILÖK) da Universidade de Münster - Alemanha (2019-2020) pelo Deutscher Akademischer Austauschdienst (DAAD).
+- **2019 - 2020** - Research internship at the Research Group of Applied Landscape Ecology and Ecological Planning at the Institute of Landscape Ecology (ILÖK) at the University of Münster - Germany by Deutscher Akademischer Austauschdienst (DAAD).
 
-- **2019 - 2019** - Psicólogo voluntário na Cruz Vermelha de São Paulo.
+- **2019 - 2019** - Volunteer psychologist at the Red Cross of São Paulo.
 
-- **2018 - 2018** - Consultoria Unesco - Projeto 914BRZ1050.2. 2018.
+- **2018 - 2018** - Unesco Consulting - Project 914BRZ1050.2. 2018.
 
-- **2016 - 2018** - Mestre em Políticas Públicas pela Universidade Federal do Rio Grande do Sul (UFRGS).
+- **2016 - 2018** - Master in Public Policy from the Federal University of Rio Grande do Sul (UFRGS).
 
 
-#### Trabalhos e Publicações (Últimos 3) ####
+#### Works and Publications (Last 3) ####
 
-- SOARES, CESAR PEDROSA; QUEIROGA, FABIANA . Dispositivos de Saúde Mental e Políticas Públicas: proposta de um instrumento para avaliar a implementação dos Centros de Atenção Psicossocial. Meta: Avaliação, v. 11, p. 438, 2019. [Link](http://revistas.cesgranrio.org.br/index.php/metaavaliacao/article/view/1938)
+- SOARES, CESAR PEDROSA; QUEIROGA, FABIANA . Mental  Health  Devices  and  Public  Policies:  proposal  of  an instrument to evaluate the implementation of the Psychosocial Care Centers. Meta: Avaliação, v. 11, p. 438, 2019. [Link](http://revistas.cesgranrio.org.br/index.php/metaavaliacao/article/view/1938)
 
-- CARBONE, A. S. ; COUTINHO, SMV ; SOARES, C. P. ; RIBEIRO, D. G. ; VASCONCELLOS, .. M. P. C. . Revisitando conceito e princípios de ordenamento territorial na realidade brasileira. Jornal da USP - Universidade de São Paulo, Artigos, 07 ago. 2019. [Link](https://jornal.usp.br/artigos/revisitando-conceito-e-principios-de-ordenamento-territorial-na-realidade-brasileira/)
+- CARBONE, A. S. ; COUTINHO, SMV ; SOARES, C. P. ; RIBEIRO, D. G. ; VASCONCELLOS, .. M. P. C. . Revisiting the concept and principles of spatial planning in the Brazilian reality. USP Journal - University of São Paulo, Articles, 07 ago. 2019. [Link](https://jornal.usp.br/artigos/revisitando-conceito-e-principios-de-ordenamento-territorial-na-realidade-brasileira/)
 
-- SOARES, C. P.; VASCONCELLOS, .. M. P. C. . Políticas Públicas de Saúde e Ordenamento Territorial: uma análise descritiva e exploratória dos municípios brasileiros que recebem compensações financeiras. In: 26th APDR Congress, 2019, Aveiro/Portugal. Proceedings 26th APDR Congress, 2019.
+- SOARES, C. P.; VASCONCELLOS, .. M. P. C. . Public Health Policies and Spatial Planning: a descriptive and exploratory analysis of Brazilian municipalities that receive financial compensation. In: 26th APDR Congress, 2019, Aveiro/Portugal. Proceedings 26th APDR Congress, 2019.
 
 
 
