@@ -11,7 +11,7 @@ meta-description: "Psychologist. Master in Public Policy. PhD student in Global 
 ## Quem sou eu ##
 
 PhD student in Global Health and Sustainability at the University of São Paulo (USP). Master in Public Policy from the Federal University of Rio Grande do Sul (UFRGS). Bachelor in Psychology.
-Areas of interest in research: socioeconomic and environmental inequality, compensation/offset policies, sustainable development, climate change, social patterns of use of natural resources, public policies and socio-environmental sustainability, evaluation and monitoring of public policies, artificial intelligence applied to health, education, and the environment, and psychometrics methods.
+Areas of interest in research: socioeconomic and environmental inequality, compensation/offset policies, sustainable development, climate change, social patterns of use of natural resources, public policies and socio-environmental sustainability, evaluation and monitoring of public policies, artificial intelligence applied to health, education, and the environment, psychometrics methods.
 
 ### Contatos ###
 
