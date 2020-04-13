@@ -30,7 +30,7 @@ Areas of interest in research: socioeconomic and environmental inequality, compe
 ### Curriculum Vitae (Last 5 years) ###
 
 
-- **2018 - Atual** - PhD student in Global Health and Sustainability at the University of São Paulo (USP) (Scholarship Capes - Process No. 1808789).
+- **2018 - Current** - PhD student in Global Health and Sustainability at the University of São Paulo (USP) (Scholarship Capes - Process No. 1808789).
 
 - **2019 - 2020** - Research internship at the Research Group of Applied Landscape Ecology and Ecological Planning at the Institute of Landscape Ecology (ILÖK) at the University of Münster - Germany by Deutscher Akademischer Austauschdienst (DAAD).
 
