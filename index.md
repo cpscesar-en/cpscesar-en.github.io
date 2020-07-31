@@ -10,7 +10,7 @@ meta-description: "Psychologist. Master in Public Policy. PhD student in Global 
 
 ## About me ##
 
-PhD student in Global Health and Sustainability at the University of São Paulo (USP). Master in Public Policy from the Federal University of Rio Grande do Sul (UFRGS). Bachelor in Psychology.
+Ph.D. student in Global Health and Sustainability at the University of São Paulo (USP). Master in Public Policy from the Federal University of Rio Grande do Sul (UFRGS). Bachelor in Psychology.
 Areas of interest in research: socioeconomic and environmental inequality, compensation/offset policies, sustainable development, climate change, social patterns of use of natural resources, public policies and socio-environmental sustainability, evaluation and monitoring of public policies, artificial intelligence applied to health, education, and the environment, psychometrics methods.
 
 ### Contacts ###
@@ -30,7 +30,7 @@ Areas of interest in research: socioeconomic and environmental inequality, compe
 ### Curriculum Vitae (Last 5 years) ###
 
 
-- **2018 - Current** - PhD student in Global Health and Sustainability at the University of São Paulo (USP) (Scholarship Capes - Process No. 1808789).
+- **2018 - Current** - Ph.D. student in Global Health and Sustainability at the University of São Paulo (USP) (Scholarship Capes - Process No. 1808789).
 
 - **2019 - 2020** - Research internship at the Research Group of Applied Landscape Ecology and Ecological Planning at the Institute of Landscape Ecology (ILÖK) at the University of Münster - Germany by Deutscher Akademischer Austauschdienst (DAAD).
 
@@ -43,11 +43,11 @@ Areas of interest in research: socioeconomic and environmental inequality, compe
 
 #### Works and Publications (Last 3) ####
 
-- SOARES, CESAR PEDROSA; QUEIROGA, FABIANA . Mental  Health  Devices  and  Public  Policies:  proposal  of  an instrument to evaluate the implementation of the Psychosocial Care Centers. Meta: Avaliação, v. 11, p. 438, 2019. [Link](http://revistas.cesgranrio.org.br/index.php/metaavaliacao/article/view/1938)
+- SOARES, L.P.; SOARES, C.P. Automatic Detection of COVID-19 Cases on X-ray images Using Convolutional Neural Networks. arXiv preprint arXiv:2007.05494, 2020. [Link](https://arxiv.org/abs/2007.05494)
 
-- CARBONE, A. S. ; COUTINHO, SMV ; SOARES, C. P. ; RIBEIRO, D. G. ; VASCONCELLOS, .. M. P. C. . Revisiting the concept and principles of spatial planning in the Brazilian reality. USP Journal - University of São Paulo, Articles, 07 ago. 2019. [Link](https://jornal.usp.br/artigos/revisitando-conceito-e-principios-de-ordenamento-territorial-na-realidade-brasileira/)
+- SOARES, C.P.; QUEIROGA, F. Mental  Health  Devices  and  Public  Policies:  proposal  of  an instrument to evaluate the implementation of the Psychosocial Care Centers. Meta: Avaliação, v. 11, p. 438, 2019. [Link](http://revistas.cesgranrio.org.br/index.php/metaavaliacao/article/view/1938)
 
-- SOARES, C. P.; VASCONCELLOS, .. M. P. C. . Public Health Policies and Spatial Planning: a descriptive and exploratory analysis of Brazilian municipalities that receive financial compensation. In: 26th APDR Congress, 2019, Aveiro/Portugal. Proceedings 26th APDR Congress, 2019.
+- CARBONE, A.S. ; COUTINHO, S.M.V. ; SOARES, C.P. ; RIBEIRO, D.G. ; VASCONCELLOS, M.P.C. Revisiting the concept and principles of spatial planning in the Brazilian reality. USP Journal - University of São Paulo, Articles, 07 ago. 2019. [Link](https://jornal.usp.br/artigos/revisitando-conceito-e-principios-de-ordenamento-territorial-na-realidade-brasileira/)
 
 
 
